@@ -1,0 +1,24 @@
+{
+  "name": "Sahu Info Bot",
+  "description": "A simple Telegram Bot Look Like sahu information bot ",
+  "logo": "https://te.legra.ph/file/864c53d6da96917351e53.jpg",
+  "keywords": [
+    "Sangmetainfo_bot",
+    "Sangmata Bot"
+  ],
+  "repository": "https://github.com/R2cf/info/",
+  "env": {
+    "HEROKU_APP_NAME": {
+      "description": "give your heroku name",
+      "value": ""
+    },
+    "OWNER": {
+      "description": "1935344311",
+      "value": "1935344311"
+    },
+    "BOT_TOKEN": {
+      "description": "Telegram Bot Token",
+      "value": ""
+    }
+  }
+}
